@@ -55,4 +55,4 @@ print(mongo_query)
 - More complex condition handling (`>=`, `<=`, `!=`, etc.)  
 - MongoDB aggregation framework support  
 
-Let me know if you need modifications! 🚀
+Welcomig to contributions and model improvements 🚀
